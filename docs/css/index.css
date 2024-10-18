@@ -1,0 +1,28 @@
+body {
+    background: #181818;
+    color: #F0F0F0;
+    font-family: Open Sans, sans-serif;
+    margin: auto;
+    padding: 20px;
+    max-width: 960px;
+    font-size: 16px;
+}
+p {
+    padding-bottom: 10px;
+    line-height: 1.5;
+}
+h1 {
+    font-size: 40px;
+    text-align: center;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+h2 {
+    font-size: 28px;
+    text-align: left;
+    padding-top: 20px;
+    padding-bottom: 40px;
+}
+h2 a {
+    color: #F0F0F0;
+}
